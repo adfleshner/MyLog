@@ -21,7 +21,7 @@ boolean actuallyLog = true;
 
 Methods currently implemented
 ```java
-  public static void i(String tag, String msg, Boolean actuallyLog)
+  	public static void i(String tag, String msg, Boolean actuallyLog)
 	public static void d(String tag, String msg, Boolean actuallyLog) 
 	public static void v(String tag, String msg, Boolean actuallyLog)
 	public static void e(String tag, String msg, Boolean actuallyLog)
