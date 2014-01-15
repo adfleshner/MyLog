@@ -9,8 +9,8 @@ How its used.
 
 ```java
 boolean actuallyLog = true;
-
 ...
+
  MyLog.i("title","message",actuallyLog);
  MyLog.v("title","message",actuallyLog);
  MyLog.d("title","message",actuallyLog);
