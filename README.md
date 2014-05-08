@@ -1,9 +1,8 @@
 MyLog
 =====
 
-A Simple Util that makes turning logging on and off fairly simple
-
-My Log is a Util that adds a boolean to the android.util.log.
+Logging is very easy this is a simple util that makes turning logging on and off even more simple.
+MyLog is a Util that adds a boolean to the android.util.log. So you no longer have to throw an if statment or something around your log statement to have an easy toggle on and off. 
 
 ##Usage
 ```java 
