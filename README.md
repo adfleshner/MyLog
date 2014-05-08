@@ -51,3 +51,13 @@ Methods currently implemented
 	public static void w(String tag, String msg, Throwable tr, Boolean actuallyLog) 
 	public static void wtf(String tag, String msg, Throwable tr, Boolean actuallyLog) 
 ```
+
+##LICENSE
+----------------------------------------------------------------------------
+
+Copyright 2013 Aaron Fleshner
+
+"THE BEER-WARE LICENSE" (Revision 42):
+<phk@FreeBSD.ORG> wrote this file. As long as you retain this notice you can do whatever you want with this stuff. If we meet some day, and you think this stuff is worth it, you can buy me a beer in return Poul-Henning Kamp
+
+----------------------------------------------------------------------------
