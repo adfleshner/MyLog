@@ -42,6 +42,7 @@ Methods currently implemented
 	public static void e(String tag, String msg, Boolean actuallyLog)
 	public static void w(String tag, String msg, Boolean actuallyLog)
 	public static void wtf(String tag, String msg, Boolean actuallyLog)
+	
 	public static void d(String tag, String msg, Throwable tr, Boolean actuallyLog)
 	public static void i(String tag, String msg, Throwable tr, Boolean actuallyLog)
 	public static void v(String tag, String msg, Throwable tr, Boolean actuallyLog)
