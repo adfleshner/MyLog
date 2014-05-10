@@ -16,7 +16,7 @@ MyLog.i("title","Message",actuallyLog);
 
 ```
 
-also handles throwables. 
+Also handles throwables. 
 ```java
 	public static void i(String tag, String msg, Throwable tr, Boolean actuallyLog);
 ```
