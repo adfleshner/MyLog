@@ -4,6 +4,7 @@ MyLog
 Logging is very easy this is a simple util that makes turning logging on and off even more simple.
 MyLog is a Util that adds a boolean to the android.util.log. So you no longer have to throw an if statment or something around your log statement to have an easy toggle on and off. 
 
+
 ##Usage
 ```java 
 //changes 
@@ -16,10 +17,12 @@ MyLog.i("title","Message",actuallyLog);
 
 ```
 
+
 Also handles throwables. 
 ```java
 	public static void i(String tag, String msg, Throwable tr, Boolean actuallyLog);
 ```
+
 How its used.
 
 ```java
