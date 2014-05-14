@@ -37,6 +37,7 @@ boolean actuallyLog = true;
  ect.
 ```
 
+
 Methods currently implemented
 ```java
 	public static void d(String tag, String msg, Boolean actuallyLog) 
